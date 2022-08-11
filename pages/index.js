@@ -12,7 +12,7 @@ export default function Home({ exploreData, cardsData }) {
       <Head>
         <title>Airbnb clone</title>
         <link rel="icon" href="/favicon.ico" />
-        <script src="path/to/dist/feather.js"></script>
+        <Script src="path/to/dist/feather.js"></Script>
       </Head>
 
       <Header />

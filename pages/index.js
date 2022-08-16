@@ -13,6 +13,7 @@ export default function Home({ exploreData, cardsData }) {
         <title>Airbnb clone</title>
         <link rel="icon" href="/favicon.ico" />
         <script src="path/to/dist/feather.js" async></script>
+        <meta name="google-site-verification" content="02Bf52PxK9FGHZz_hSDj4iKSTg4i9a4Rssom5l7mUII" />
       </Head>
 
       <Header />

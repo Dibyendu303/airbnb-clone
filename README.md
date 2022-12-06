@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Project overview
+Designed a AirBnb clone using ReactJS and NextJS. Used Tailwind CSS for faster CSS styling process. Implemented Mapbox to display map with list of stays in the location.\
+Technologies used - ReactJS, NextJS, Tailwind CSS, Mapbox\
+
+Website link: https://airbnb-clone-dibyendu303.vercel.app/ 
 
 ## Getting Started
 
